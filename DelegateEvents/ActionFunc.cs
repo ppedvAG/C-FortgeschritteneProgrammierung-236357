@@ -63,6 +63,7 @@ internal class ActionFunc
 
 		//Anonyme Methoden bei DoAction/DoFunc
 		DoAction10Times(8, 4, (o, u) => Console.WriteLine(o + u));
+		intList.Aggregate(0, (o, u) => o + u);
 	}
 
 	//static IEnumerable<int> Where(List<int> list, Func<int, bool> func)
