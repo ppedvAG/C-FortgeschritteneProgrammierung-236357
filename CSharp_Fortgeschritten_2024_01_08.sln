@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multitasking", "Multitasking\Multitasking.csproj", "{C9E56DDC-F651-40DA-A22A-580DF1AECE11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{611F19FB-061B-4964-BBC9-77FAE73E3A73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C9E56DDC-F651-40DA-A22A-580DF1AECE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9E56DDC-F651-40DA-A22A-580DF1AECE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9E56DDC-F651-40DA-A22A-580DF1AECE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611F19FB-061B-4964-BBC9-77FAE73E3A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611F19FB-061B-4964-BBC9-77FAE73E3A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611F19FB-061B-4964-BBC9-77FAE73E3A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611F19FB-061B-4964-BBC9-77FAE73E3A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
